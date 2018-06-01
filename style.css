@@ -1,0 +1,152 @@
+#header ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+#header li {
+	float:left;
+	margin:0px;
+	padding:5px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: gray;
+}
+
+#header li a{
+margin:10px;
+background-color: #A9F5A9;
+text-decoration:none;
+padding: 10% 0% 10% 0%;
+text-align:center;
+width:170px;
+display:block;
+margin-right:5px;
+}
+
+.col-1 {width:8.33%;
+border: 1px solid black;
+		padding: 20px;}
+.col-2 {width:16.66%;
+		padding: 20px;}
+.col-3 {width:24.99%;
+border: 1px solid black;
+		padding: 20px;}
+.col-4 {width:33.32%;
+		border: 1px solid black;
+		padding: 20px;}
+.col-5 {width:41.65%;
+border: 1px solid black;
+		padding: 20px;}
+.col-6 {width:49.98%;
+		border: 1px solid black;
+		padding: 20px;
+	}
+.col-7 {width:58.31%;
+border: 1px solid black;
+		padding: 20px;}
+.col-8 {width:66.64%;
+border: 1px solid black;
+		padding: 20px;}
+.col-9 {width:74.97%;
+border: 1px solid black;
+		padding: 20px;}
+.col-10{width:83.3%;
+border: 1px solid black;
+		padding: 20px;}
+.col-11{width:91.63;
+border: 1px solid black;
+		padding: 20px;}
+.col-12{width:100%;
+border: 1px solid black;
+		padding: 20px;}
+
+.row {
+
+	display: inline-flex;
+	width:100%;
+	
+}
+
+body {
+	background-image: url('wallpaper.jpg');
+	background-size: 100%;
+}
+
+.center {
+	position: center;
+	text-align: center;
+}
+
+h1 {
+	color: #5858FA;
+}
+
+.map {
+	width: 100%;
+	text-align: center;
+}
+
+.col-sm-3{
+	width:50%;
+	border: 1px solid black;
+	padding: 20px;}
+}
+
+.landp{
+	padding-top: 10%;
+}
+
+.comment{
+	text-align: center;
+	padding: 50px 0px 50px 0px;
+	margin: center;
+	text-decoration: bold;	
+	font-size: 30px 
+}
+
+.option , .day , .month{
+	display: inline-block;
+	text-align: center;
+	padding: 15px 20px 30px 15px;
+	margin: left;
+	text-decoration: bold;
+	font-size: 20px;
+}
+
+#footer li a{
+	text-decoration: none;
+	color: white;
+	width: 100%;
+}
+
+#footer{
+		background-color: black;
+}
+
+#footer p{
+	color: white;
+}
+
+#footer h2{
+	color: white;
+}
+
+#footer li{
+	padding-bottom: 3%;
+}
+
+#table td{
+	color: white;
+}
+
+.li span{
+	background: gold;
+}
+
+p,h2{
+	color: yellow;
+}
+
+.input{
+	color: red;
+}
